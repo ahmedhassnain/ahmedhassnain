@@ -70,9 +70,9 @@ APU's newsletter club: research and technical operations
 <a name="about"></a>
 <img src="assets/bar-about.svg" width="100%" alt="About me">
 
-**hi, i'm ahmed.** I'm a computer science student at Asia Pacific University in Kuala Lumpur, and I build front ends people actually enjoy clicking through. So far that's meant a real-time network analytics dashboard for a telecom in Riyadh, a headless storefront for a Pakistani fashion brand, and the website for my uni's newsletter club.
+**hiii!!, ahmed over here.** I'm a computer science student at Asia Pacific University in Kuala Lumpur, and I build front ends people actually enjoy clicking through. So far that's meant a real-time network analytics dashboard for a telecom in Riyadh, a headless storefront for a Pakistani fashion brand, and the website for my uni's newsletter club.
 
-Before the code there was design: mascots, branding and promo graphics, plus three years editing podcasts for a US media company. So I care how things look and feel as much as how they work.
+Before the code there was design: mascots, branding and promo graphics, plus three years editing podcasts for a US media company. So I care how things look and feel as much as how they work. I'm also currently learning full-stack development powered with AI which will help me build a better understanding of system design and backend integration.
 
 <a name="experience"></a>
 <img src="assets/bar-experience.svg" width="100%" alt="Experience">
