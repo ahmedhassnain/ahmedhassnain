@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Ahmed Hassnain: front-end developer, designer, CS student in Kuala Lumpur">
   <br>
-  <img src="assets/ticker.svg" width="100%" alt="Latest: tech ops for Between the Blocks, studying for AWS Cloud Practitioner, shipped the GoEye QoS dashboard for Go Telecom">
+  <img src="assets/ticker.svg" width="100%" alt="Latest: research + tech ops for Between the Blocks, studying for AWS Cloud Practitioner, shipped the GoEye QoS dashboard for Go Telecom">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 &raquo; **building** &nbsp;tech ops for *Between the Blocks*<br>
 &raquo; **studying** &nbsp;AWS Cloud Practitioner<br>
-&raquo; **then** &nbsp;AWS Data Engineer Associate<br>
+&raquo; **learning** &nbsp;Node.JS + Express.JS<br>
 &raquo; **leading** &nbsp;marketing &amp; design at the Competitive Programming club
 
 <img src="assets/bar-clubs.svg" width="100%" alt="Clubs and roles">
@@ -115,7 +115,7 @@ Corporate site for a recruitment firm in Saudi Arabia, with Framer Motion transi
 
 <a href="https://github.com/ahmedhassnain/between-the-blocks"><img src="assets/thumb-btb.svg" width="72" align="left" hspace="10" alt="Between the Blocks"></a>
 <a href="https://github.com/ahmedhassnain/between-the-blocks"><b>between-the-blocks</b></a> &nbsp;<sub>2026</sub><br>
-The website for APU's newsletter club, styled like a 2000s web portal. This README borrows its look.<br>
+The website for APU's newsletter club, styled like a modernistic newspaper itself aligned with it's own brand identity.<br>
 <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd>
 <br clear="left">
 
